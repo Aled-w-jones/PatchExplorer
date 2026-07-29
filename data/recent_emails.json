@@ -1,0 +1,8 @@
+{
+  "patches": [
+    {
+      "url": "https://support.esri.com/en-us/patches-updates/2026/arcgis-server-data-management-2026-update-1-patch",
+      "timestamp": 1785341674
+    }
+  ]
+}
