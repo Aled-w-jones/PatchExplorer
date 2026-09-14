@@ -1,8 +1,8 @@
 # Patches Data Status
-- Last updated: Mon Aug 31 20:26:27 UTC 2026
-- Timestamp: 1788207987
+- Last updated: Mon Sep 14 22:10:50 UTC 2026
+- Timestamp: 1789423850
 - Source: https://downloads.esri.com/patch_notification/patches.json
-- File size: 801176 bytes
-- Workflow run: Fetch and Update Patches Data #17772
+- File size: 801862 bytes
+- Workflow run: Fetch and Update Patches Data #17872
 - Patches changed: true
 - New patches detected: 1
