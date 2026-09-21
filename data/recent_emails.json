@@ -1,8 +1,8 @@
 {
   "patches": [
     {
-      "url": "https://support.esri.com/en-us/patches-updates/2026/arcgis-server-12-1-custom-data-feeds-patch",
-      "timestamp": 1789423888
+      "url": "https://support.esri.com/en-us/patches-updates/2026/arcgis-server-data-management-2026-update-1-patch",
+      "timestamp": 1790020955
     }
   ]
 }
