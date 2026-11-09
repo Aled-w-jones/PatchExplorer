@@ -1,8 +1,8 @@
 {
   "patches": [
     {
-      "url": "https://support.esri.com/en-us/patches-updates/2026/arcgis-server-security-2026-update-4-patch",
-      "timestamp": 1793893216
+      "url": "https://support.esri.com/en-us/patches-updates/2026/arcgis-mission-server-security-2026-update-1-patch",
+      "timestamp": 1794258623
     }
   ]
 }
